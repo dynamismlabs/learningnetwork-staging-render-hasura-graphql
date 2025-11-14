@@ -1,7 +1,7 @@
 services:
   - type: web
     name: staging-graphql-learningnetwork
-    plan: starter
+    plan: free
     env: docker
     region: virginia
     autoDeploy: false
