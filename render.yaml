@@ -27,5 +27,5 @@ databases:
   - name: staging-db-learningnetwork
     postgresMajorVersion: 18
     diskSizeGB: 1
-    plan: starter
+    plan: free
     region: virginia
